@@ -1,0 +1,365 @@
+CO_CINE_AREA_GERAL,NO_CINE_AREA_GERAL,CO_CINE_AREA_ESPECIFICA,NO_CINE_AREA_ESPECIFICA,CO_CINE_AREA_DETALHADA,NO_CINE_AREA_DETALHADA,CO_CINE_ROTULO,NO_CINE_ROTULO
+0,Programas básicos,1,Programas básicos,11,Programas básicos,0011A01,ABI Educação
+0,Programas básicos,1,Programas básicos,11,Programas básicos,0011A02,ABI Artes e humanidades
+0,Programas básicos,1,Programas básicos,11,Programas básicos,0011A03,"ABI Ciências sociais, comunicação e informação"
+0,Programas básicos,1,Programas básicos,11,Programas básicos,0011A04,"ABI Negócios, administração e direito"
+0,Programas básicos,1,Programas básicos,11,Programas básicos,0011A05,"ABI Ciências naturais, matemática e estatística"
+0,Programas básicos,1,Programas básicos,11,Programas básicos,0011A06,ABI Computação e Tecnologias da Informação e Comunicação (TIC)
+0,Programas básicos,1,Programas básicos,11,Programas básicos,0011A07,"ABI Engenharia, produção e construção"
+0,Programas básicos,1,Programas básicos,11,Programas básicos,0011A08,"ABI Agricultura, silvicultura, pesca e veterinária"
+0,Programas básicos,1,Programas básicos,11,Programas básicos,0011A09,ABI Saúde e bem-estar
+0,Programas básicos,1,Programas básicos,11,Programas básicos,0011A10,ABI Serviços
+1,Educação,11,Educação,111,Ciência da educação,0111C01,Ciência da educação
+1,Educação,11,Educação,111,Ciência da educação,0111P01,Processos escolares
+1,Educação,11,Educação,111,Ciência da educação,0111P02,Psicopedagogia
+1,Educação,11,Educação,112,Formação de professores de educação infantil,0112E01,Educação infantil formação de professor
+1,Educação,11,Educação,113,Formação de professores sem áreas específicas,0113E01,Educação do campo formação de professor
+1,Educação,11,Educação,113,Formação de professores sem áreas específicas,0113E02,Educação especial formação de professor
+1,Educação,11,Educação,113,Formação de professores sem áreas específicas,0113E03,Educação indígena formação de professor
+1,Educação,11,Educação,113,Formação de professores sem áreas específicas,0113F01,Formação pedagógica de professor para a educação básica
+1,Educação,11,Educação,113,Formação de professores sem áreas específicas,0113P01,Pedagogia
+1,Educação,11,Educação,114,Formação de professores em áreas específicas (exceto Letras),0114A01,Artes formação de professor
+1,Educação,11,Educação,114,Formação de professores em áreas específicas (exceto Letras),0114A02,Artes visuais formação de professor
+1,Educação,11,Educação,114,Formação de professores em áreas específicas (exceto Letras),0114B01,Biologia formação de professor
+1,Educação,11,Educação,114,Formação de professores em áreas específicas (exceto Letras),0114C01,Ciências agrárias formação de professor
+1,Educação,11,Educação,114,Formação de professores em áreas específicas (exceto Letras),0114C02,Ciências naturais formação de professor
+1,Educação,11,Educação,114,Formação de professores em áreas específicas (exceto Letras),0114C03,Ciências sociais formação de professor
+1,Educação,11,Educação,114,Formação de professores em áreas específicas (exceto Letras),0114C04,Cinema e audiovisual formação de professor
+1,Educação,11,Educação,114,Formação de professores em áreas específicas (exceto Letras),0114C05,Computação formação de professor
+1,Educação,11,Educação,114,Formação de professores em áreas específicas (exceto Letras),0114D01,Dança formação de professor
+1,Educação,11,Educação,114,Formação de professores em áreas específicas (exceto Letras),0114E01,Economia doméstica formação de professor
+1,Educação,11,Educação,114,Formação de professores em áreas específicas (exceto Letras),0114E02,Educação do campo em áreas de conhecimento da educação básica formação de professor
+1,Educação,11,Educação,114,Formação de professores em áreas específicas (exceto Letras),0114E03,Educação física formação de professor
+1,Educação,11,Educação,114,Formação de professores em áreas específicas (exceto Letras),0114E04,Educação indígena em áreas de conhecimento da educação básica formação de professor
+1,Educação,11,Educação,114,Formação de professores em áreas específicas (exceto Letras),0114E05,Enfermagem formação de professor
+1,Educação,11,Educação,114,Formação de professores em áreas específicas (exceto Letras),0114E06,Ensino profissionalizante em área específica formação de professor
+1,Educação,11,Educação,114,Formação de professores em áreas específicas (exceto Letras),0114E07,Ensino religioso formação de professor
+1,Educação,11,Educação,114,Formação de professores em áreas específicas (exceto Letras),0114E08,Estatística formação de professor
+1,Educação,11,Educação,114,Formação de professores em áreas específicas (exceto Letras),0114F01,Filosofia formação de professor
+1,Educação,11,Educação,114,Formação de professores em áreas específicas (exceto Letras),0114F02,Física formação de professor
+1,Educação,11,Educação,114,Formação de professores em áreas específicas (exceto Letras),0114G01,Geografia formação de professor
+1,Educação,11,Educação,114,Formação de professores em áreas específicas (exceto Letras),0114H01,História formação de professor
+1,Educação,11,Educação,114,Formação de professores em áreas específicas (exceto Letras),0114M01,Matemática formação de professor
+1,Educação,11,Educação,114,Formação de professores em áreas específicas (exceto Letras),0114M02,Música formação de professor
+1,Educação,11,Educação,114,Formação de professores em áreas específicas (exceto Letras),0114P01,Psicologia formação de professor
+1,Educação,11,Educação,114,Formação de professores em áreas específicas (exceto Letras),0114Q01,Química formação de professor
+1,Educação,11,Educação,114,Formação de professores em áreas específicas (exceto Letras),0114T01,Teatro formação de professor
+1,Educação,11,Educação,115,Formação de professores de letras,0115L01,Letras alemão formação de professor
+1,Educação,11,Educação,115,Formação de professores de letras,0115L02,Letras espanhol formação de professor
+1,Educação,11,Educação,115,Formação de professores de letras,0115L03,Letras francês formação de professor
+1,Educação,11,Educação,115,Formação de professores de letras,0115L04,Letras inglês formação de professor
+1,Educação,11,Educação,115,Formação de professores de letras,0115L05,Letras italiano formação de professor
+1,Educação,11,Educação,115,Formação de professores de letras,0115L06,Letras japonês formação de professor
+1,Educação,11,Educação,115,Formação de professores de letras,0115L07,Letras língua brasileira de sinais formação de professor
+1,Educação,11,Educação,115,Formação de professores de letras,0115L08,Letras línguas estrangeiras clássicas formação de professor
+1,Educação,11,Educação,115,Formação de professores de letras,0115L09,Letras linguística formação de professor
+1,Educação,11,Educação,115,Formação de professores de letras,0115L10,Letras outras línguas estrangeiras modernas formação de professor
+1,Educação,11,Educação,115,Formação de professores de letras,0115L11,Letras português alemão formação de professor
+1,Educação,11,Educação,115,Formação de professores de letras,0115L12,Letras português espanhol formação de professor
+1,Educação,11,Educação,115,Formação de professores de letras,0115L13,Letras português formação de professor
+1,Educação,11,Educação,115,Formação de professores de letras,0115L14,Letras português francês formação de professor
+1,Educação,11,Educação,115,Formação de professores de letras,0115L15,Letras português inglês formação de professor
+1,Educação,11,Educação,115,Formação de professores de letras,0115L16,Letras português italiano formação de professor
+1,Educação,11,Educação,115,Formação de professores de letras,0115L17,Letras português japonês formação de professor
+1,Educação,11,Educação,115,Formação de professores de letras,0115L18,Letras português língua brasileira de sinais formação de professor
+1,Educação,11,Educação,115,Formação de professores de letras,0115L19,Letras português línguas estrangeiras clássicas formação de professor
+1,Educação,11,Educação,115,Formação de professores de letras,0115L20,Letras português outras línguas estrangeiras modernas formação de professor
+1,Educação,11,Educação,115,Formação de professores de letras,0115L21,Letras tradutor e intérprete formação de professor
+1,Educação,18,Programas interdisciplinares abrangendo educação,188,Programas interdisciplinares abrangendo educação,0188P01,Programas interdisciplinares abrangendo educação
+2,Artes e humanidades,21,Artes,211,"Produção audiovisual, de mídia e cultural",0211A01,Animação
+2,Artes e humanidades,21,Artes,211,"Produção audiovisual, de mídia e cultural",0211C01,Cinema e audiovisual
+2,Artes e humanidades,21,Artes,211,"Produção audiovisual, de mídia e cultural",0211C02,Comunicação assistiva
+2,Artes e humanidades,21,Artes,211,"Produção audiovisual, de mídia e cultural",0211D01,Design gráfico
+2,Artes e humanidades,21,Artes,211,"Produção audiovisual, de mídia e cultural",0211F01,Fotografia
+2,Artes e humanidades,21,Artes,211,"Produção audiovisual, de mídia e cultural",0211P01,Produção audiovisual
+2,Artes e humanidades,21,Artes,211,"Produção audiovisual, de mídia e cultural",0211P02,Produção cênica
+2,Artes e humanidades,21,Artes,211,"Produção audiovisual, de mídia e cultural",0211P03,Produção cultural
+2,Artes e humanidades,21,Artes,211,"Produção audiovisual, de mídia e cultural",0211P04,Produção fonográfica
+2,Artes e humanidades,21,Artes,211,"Produção audiovisual, de mídia e cultural",0211P05,Produção multimídia
+2,Artes e humanidades,21,Artes,212,"Moda, design de interiores e desenho industrial",0212D01,Desenho industrial
+2,Artes e humanidades,21,Artes,212,"Moda, design de interiores e desenho industrial",0212D02,Design
+2,Artes e humanidades,21,Artes,212,"Moda, design de interiores e desenho industrial",0212D03,Design de interiores
+2,Artes e humanidades,21,Artes,212,"Moda, design de interiores e desenho industrial",0212D04,Design de produto
+2,Artes e humanidades,21,Artes,212,"Moda, design de interiores e desenho industrial",0212M01,Moda
+2,Artes e humanidades,21,Artes,213,Belas artes,0213A01,Artes
+2,Artes e humanidades,21,Artes,213,Belas artes,0213A02,Artes plásticas
+2,Artes e humanidades,21,Artes,213,Belas artes,0213A03,Artes visuais
+2,Artes e humanidades,21,Artes,213,Belas artes,0213H01,História da arte
+2,Artes e humanidades,21,Artes,214,Artesanato,0214F01,Fabricação de instrumentos musicais não industrial
+2,Artes e humanidades,21,Artes,215,Música e artes cênicas,0215A01,Artes cênicas
+2,Artes e humanidades,21,Artes,215,Música e artes cênicas,0215D01,Dança
+2,Artes e humanidades,21,Artes,215,Música e artes cênicas,0215M01,Música
+2,Artes e humanidades,21,Artes,215,Música e artes cênicas,0215T01,Teatro
+2,Artes e humanidades,22,Humanidades (exceto línguas),221,Religião e teologia,0221C01,Ciências da religião
+2,Artes e humanidades,22,Humanidades (exceto línguas),221,Religião e teologia,0221T01,Teologia
+2,Artes e humanidades,22,Humanidades (exceto línguas),222,História e arqueologia,0222A01,Arqueologia
+2,Artes e humanidades,22,Humanidades (exceto línguas),222,História e arqueologia,0222C01,Conservação e restauro
+2,Artes e humanidades,22,Humanidades (exceto línguas),222,História e arqueologia,0222H01,História
+2,Artes e humanidades,22,Humanidades (exceto línguas),223,Filosofia e ética,0223F01,Filosofia
+2,Artes e humanidades,23,Línguas,231,Letras,0231L01,Letras alemão
+2,Artes e humanidades,23,Línguas,231,Letras,0231L02,Letras escrita criativa
+2,Artes e humanidades,23,Línguas,231,Letras,0231L03,Letras espanhol
+2,Artes e humanidades,23,Línguas,231,Letras,0231L04,Letras francês
+2,Artes e humanidades,23,Línguas,231,Letras,0231L05,Letras inglês
+2,Artes e humanidades,23,Línguas,231,Letras,0231L06,Letras italiano
+2,Artes e humanidades,23,Línguas,231,Letras,0231L07,Letras japonês
+2,Artes e humanidades,23,Línguas,231,Letras,0231L08,Letras língua brasileira de sinais
+2,Artes e humanidades,23,Línguas,231,Letras,0231L09,Letras línguas estrangeiras clássicas
+2,Artes e humanidades,23,Línguas,231,Letras,0231L10,Letras linguística
+2,Artes e humanidades,23,Línguas,231,Letras,0231L11,Letras outras línguas estrangeiras modernas
+2,Artes e humanidades,23,Línguas,231,Letras,0231L12,Letras português
+2,Artes e humanidades,23,Línguas,231,Letras,0231L13,Letras português alemão
+2,Artes e humanidades,23,Línguas,231,Letras,0231L14,Letras português espanhol
+2,Artes e humanidades,23,Línguas,231,Letras,0231L15,Letras português francês
+2,Artes e humanidades,23,Línguas,231,Letras,0231L16,Letras português inglês
+2,Artes e humanidades,23,Línguas,231,Letras,0231L17,Letras português italiano
+2,Artes e humanidades,23,Línguas,231,Letras,0231L18,Letras português japonês
+2,Artes e humanidades,23,Línguas,231,Letras,0231L19,Letras português língua brasileira de sinais
+2,Artes e humanidades,23,Línguas,231,Letras,0231L20,Letras português línguas estrangeiras clássicas
+2,Artes e humanidades,23,Línguas,231,Letras,0231L21,Letras português outras línguas estrangeiras modernas
+2,Artes e humanidades,23,Línguas,231,Letras,0231L22,Letras tradutor e intérprete
+2,Artes e humanidades,28,Programas interdisciplinares abrangendo artes e humanidades,288,Programas interdisciplinares abrangendo artes e humanidades,0288P01,Programas interdisciplinares abrangendo artes e humanidades
+3,"Ciências sociais, comunicação e informação",31,Ciências sociais e comportamentais,311,Economia,0311E01,Economia
+3,"Ciências sociais, comunicação e informação",31,Ciências sociais e comportamentais,312,Ciências sociais e políticas,0312A01,Antropologia
+3,"Ciências sociais, comunicação e informação",31,Ciências sociais e comportamentais,312,Ciências sociais e políticas,0312C01,Ciência política
+3,"Ciências sociais, comunicação e informação",31,Ciências sociais e comportamentais,312,Ciências sociais e políticas,0312C02,Ciências sociais
+3,"Ciências sociais, comunicação e informação",31,Ciências sociais e comportamentais,312,Ciências sociais e políticas,0312G01,Geografia
+3,"Ciências sociais, comunicação e informação",31,Ciências sociais e comportamentais,312,Ciências sociais e políticas,0312R01,Relações internacionais
+3,"Ciências sociais, comunicação e informação",31,Ciências sociais e comportamentais,312,Ciências sociais e políticas,0312S01,Sociologia
+3,"Ciências sociais, comunicação e informação",31,Ciências sociais e comportamentais,313,Psicologia,0313P01,Psicologia
+3,"Ciências sociais, comunicação e informação",32,Comunicação e informação,321,Comunicação e reportagem,0321C01,Comunicação social
+3,"Ciências sociais, comunicação e informação",32,Comunicação e informação,321,Comunicação e reportagem,0321J01,Jornalismo
+3,"Ciências sociais, comunicação e informação",32,Comunicação e informação,321,Comunicação e reportagem,0321P01,Produção editorial
+3,"Ciências sociais, comunicação e informação",32,Comunicação e informação,321,Comunicação e reportagem,0321R01,"Rádio, TV e internet"
+3,"Ciências sociais, comunicação e informação",32,Comunicação e informação,322,Ciência da informação e museologia,0322A01,Arquivologia
+3,"Ciências sociais, comunicação e informação",32,Comunicação e informação,322,Ciência da informação e museologia,0322B01,Biblioteconomia
+3,"Ciências sociais, comunicação e informação",32,Comunicação e informação,322,Ciência da informação e museologia,0322G01,Gestão da informação
+3,"Ciências sociais, comunicação e informação",32,Comunicação e informação,322,Ciência da informação e museologia,0322M01,Museologia
+3,"Ciências sociais, comunicação e informação",38,"Programas interdisciplinares abrangendo ciências sociais, comunicação e informação",388,"Programas interdisciplinares abrangendo ciências sociais, comunicação e informação",0388P01,"Programas interdisciplinares abrangendo ciências sociais, comunicação e informação"
+4,"Negócios, administração e direito",41,Negócios e administração,411,Contabilidade e tributação,0411C01,Contabilidade
+4,"Negócios, administração e direito",41,Negócios e administração,411,Contabilidade e tributação,0411G01,Gestão fiscal e tributária
+4,"Negócios, administração e direito",41,Negócios e administração,412,"Finanças, bancos e seguros",0412G01,Gestão financeira
+4,"Negócios, administração e direito",41,Negócios e administração,412,"Finanças, bancos e seguros",0412S01,Seguros
+4,"Negócios, administração e direito",41,Negócios e administração,413,Gestão e administração,0413A01,Administração
+4,"Negócios, administração e direito",41,Negócios e administração,413,Gestão e administração,0413A02,Administração pública
+4,"Negócios, administração e direito",41,Negócios e administração,413,Gestão e administração,0413C01,Comércio exterior
+4,"Negócios, administração e direito",41,Negócios e administração,413,Gestão e administração,0413E01,Empreendedorismo
+4,"Negócios, administração e direito",41,Negócios e administração,413,Gestão e administração,0413G01,Gestão da produção
+4,"Negócios, administração e direito",41,Negócios e administração,413,Gestão e administração,0413G02,Gestão da qualidade
+4,"Negócios, administração e direito",41,Negócios e administração,413,Gestão e administração,0413G03,Gestão da saúde
+4,"Negócios, administração e direito",41,Negócios e administração,413,Gestão e administração,0413G04,Gestão de cooperativas
+4,"Negócios, administração e direito",41,Negócios e administração,413,Gestão e administração,0413G05,Gestão de negócios
+4,"Negócios, administração e direito",41,Negócios e administração,413,Gestão e administração,0413G06,Gestão de negócios internacionais
+4,"Negócios, administração e direito",41,Negócios e administração,413,Gestão e administração,0413G07,Gestão de pessoas
+4,"Negócios, administração e direito",41,Negócios e administração,413,Gestão e administração,0413G08,Gestão de serviços
+4,"Negócios, administração e direito",41,Negócios e administração,413,Gestão e administração,0413G09,Gestão do agronegócio
+4,"Negócios, administração e direito",41,Negócios e administração,413,Gestão e administração,0413G10,Gestão estratégica
+4,"Negócios, administração e direito",41,Negócios e administração,413,Gestão e administração,0413G11,Gestão hospitalar
+4,"Negócios, administração e direito",41,Negócios e administração,413,Gestão e administração,0413G12,Gestão pública
+4,"Negócios, administração e direito",41,Negócios e administração,413,Gestão e administração,0413L01,Logística
+4,"Negócios, administração e direito",41,Negócios e administração,414,Marketing e propaganda,0414M01,Marketing
+4,"Negócios, administração e direito",41,Negócios e administração,414,Marketing e propaganda,0414P01,Publicidade e propaganda
+4,"Negócios, administração e direito",41,Negócios e administração,414,Marketing e propaganda,0414R01,Relações públicas
+4,"Negócios, administração e direito",41,Negócios e administração,415,Secretariado e trabalhos de escritório,0415S01,Secretariado
+4,"Negócios, administração e direito",41,Negócios e administração,416,Gestão comercial,0416G01,Gestão comercial
+4,"Negócios, administração e direito",41,Negócios e administração,416,Gestão comercial,0416N01,Negócios imobiliários
+4,"Negócios, administração e direito",42,Direito,421,Direito,0421D01,Direito
+4,"Negócios, administração e direito",42,Direito,421,Direito,0421S01,Serviços jurídicos e cartoriais
+4,"Negócios, administração e direito",48,"Programas interdisciplinares abrangendo negócios, administração e direito",488,"Programas interdisciplinares abrangendo negócios, administração e direito",0488P01,"Programas interdisciplinares abrangendo negócios, administração e direito"
+5,"Ciências naturais, matemática e estatística",51,Ciências biológicas e correlatas,511,Biologia,0511B01,Biologia
+5,"Ciências naturais, matemática e estatística",51,Ciências biológicas e correlatas,512,Bioquímica e biotecnologia,0512B01,Bioquímica
+5,"Ciências naturais, matemática e estatística",51,Ciências biológicas e correlatas,512,Bioquímica e biotecnologia,0512B02,Biotecnologia
+5,"Ciências naturais, matemática e estatística",51,Ciências biológicas e correlatas,512,Bioquímica e biotecnologia,0512T01,Toxicologia
+5,"Ciências naturais, matemática e estatística",52,Meio ambiente,521,Ciências ambientais,0521C01,Ciências ambientais
+5,"Ciências naturais, matemática e estatística",52,Meio ambiente,521,Ciências ambientais,0521E01,Ecologia
+5,"Ciências naturais, matemática e estatística",53,Ciências físicas,531,Química,0531Q01,Química
+5,"Ciências naturais, matemática e estatística",53,Ciências físicas,531,Química,0531Q02,Química industrial e tecnológica
+5,"Ciências naturais, matemática e estatística",53,Ciências físicas,532,Ciências da terra,0532G01,Geofísica
+5,"Ciências naturais, matemática e estatística",53,Ciências físicas,532,Ciências da terra,0532G02,Geologia
+5,"Ciências naturais, matemática e estatística",53,Ciências físicas,532,Ciências da terra,0532G03,Geoprocessamento
+5,"Ciências naturais, matemática e estatística",53,Ciências físicas,532,Ciências da terra,0532M01,Meteorologia
+5,"Ciências naturais, matemática e estatística",53,Ciências físicas,532,Ciências da terra,0532O01,Oceanografia
+5,"Ciências naturais, matemática e estatística",53,Ciências físicas,533,Física,0533A01,Astronomia
+5,"Ciências naturais, matemática e estatística",53,Ciências físicas,533,Física,0533F01,Física
+5,"Ciências naturais, matemática e estatística",53,Ciências físicas,533,Física,0533F02,Física aplicada
+5,"Ciências naturais, matemática e estatística",53,Ciências físicas,533,Física,0533F03,Física médica
+5,"Ciências naturais, matemática e estatística",54,Matemática e estatística,541,Matemática,0541M01,Matemática
+5,"Ciências naturais, matemática e estatística",54,Matemática e estatística,541,Matemática,0541M02,Matemática aplicada e computacional
+5,"Ciências naturais, matemática e estatística",54,Matemática e estatística,542,Estatística,0542C01,Ciências atuariais
+5,"Ciências naturais, matemática e estatística",54,Matemática e estatística,542,Estatística,0542E01,Estatística
+5,"Ciências naturais, matemática e estatística",58,"Programas interdisciplinares abrangendo ciências naturais, matemática e estatística",588,"Programas interdisciplinares abrangendo ciências naturais, matemática e estatística",0588P01,"Programas interdisciplinares abrangendo ciências naturais, matemática e estatística"
+6,Computação e Tecnologias da Informação e Comunicação (TIC),61,Computação e Tecnologias da Informação e Comunicação (TIC),612,Infraestrutura e gestão de TIC,0612B01,Banco de dados
+6,Computação e Tecnologias da Informação e Comunicação (TIC),61,Computação e Tecnologias da Informação e Comunicação (TIC),612,Infraestrutura e gestão de TIC,0612D01,Defesa cibernética
+6,Computação e Tecnologias da Informação e Comunicação (TIC),61,Computação e Tecnologias da Informação e Comunicação (TIC),612,Infraestrutura e gestão de TIC,0612G01,Gestão da tecnologia da informação
+6,Computação e Tecnologias da Informação e Comunicação (TIC),61,Computação e Tecnologias da Informação e Comunicação (TIC),612,Infraestrutura e gestão de TIC,0612R01,Redes de computadores
+6,Computação e Tecnologias da Informação e Comunicação (TIC),61,Computação e Tecnologias da Informação e Comunicação (TIC),613,Produção de software,0613E01,Engenharia de software
+6,Computação e Tecnologias da Informação e Comunicação (TIC),61,Computação e Tecnologias da Informação e Comunicação (TIC),613,Produção de software,0613J01,Jogos digitais
+6,Computação e Tecnologias da Informação e Comunicação (TIC),61,Computação e Tecnologias da Informação e Comunicação (TIC),614,Ciência da computação,0614C01,Ciência da computação
+6,Computação e Tecnologias da Informação e Comunicação (TIC),61,Computação e Tecnologias da Informação e Comunicação (TIC),615,Gestão e desenvolvimento de sistemas de informação,0615S01,Segurança da informação
+6,Computação e Tecnologias da Informação e Comunicação (TIC),61,Computação e Tecnologias da Informação e Comunicação (TIC),615,Gestão e desenvolvimento de sistemas de informação,0615S02,Sistemas de informação
+6,Computação e Tecnologias da Informação e Comunicação (TIC),61,Computação e Tecnologias da Informação e Comunicação (TIC),615,Gestão e desenvolvimento de sistemas de informação,0615S03,Sistemas para internet
+6,Computação e Tecnologias da Informação e Comunicação (TIC),61,Computação e Tecnologias da Informação e Comunicação (TIC),616,Desenvolvimento de sistemas que integram software e hardware,0616E01,Engenharia de computação (DCN Computação)
+6,Computação e Tecnologias da Informação e Comunicação (TIC),61,Computação e Tecnologias da Informação e Comunicação (TIC),616,Desenvolvimento de sistemas que integram software e hardware,0616S01,Sistemas embarcados
+6,Computação e Tecnologias da Informação e Comunicação (TIC),68,Programas interdisciplinares abrangendo computação e Tecnologias da Informação e Comunicação (TIC),688,Programas interdisciplinares abrangendo computação e Tecnologias da Informação e Comunicação (TIC),0688P01,Programas interdisciplinares abrangendo computação e Tecnologias da Informação e Comunicação (TIC)
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,710,Engenharia e profissões correlatas sem definição precisa,0710E01,Engenharia
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,711,Engenharia química e de processos,0711B01,Biocombustíveis
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,711,Engenharia química e de processos,0711E01,Engenharia bioquímica
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,711,Engenharia química e de processos,0711E02,Engenharia de bioprocessos
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,711,Engenharia química e de processos,0711E03,Engenharia de biotecnologia
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,711,Engenharia química e de processos,0711E04,Engenharia de nanotecnologia
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,711,Engenharia química e de processos,0711E05,Engenharia química
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,712,Tecnologia de proteção ambiental,0712E01,Engenharia ambiental
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,712,Tecnologia de proteção ambiental,0712E02,Engenharia ambiental e sanitária
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,712,Tecnologia de proteção ambiental,0712G01,Gestão ambiental
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,712,Tecnologia de proteção ambiental,0712G02,Gestão de resíduos
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,712,Tecnologia de proteção ambiental,0712S01,Saneamento ambiental
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,713,Eletricidade e energia,0713E01,Eletrotécnica industrial
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,713,Eletricidade e energia,0713E02,Energias renováveis
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,713,Eletricidade e energia,0713E03,Engenharia bioenergética
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,713,Eletricidade e energia,0713E04,Engenharia de energia
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,713,Eletricidade e energia,0713E05,Engenharia elétrica
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,713,Eletricidade e energia,0713E06,Engenharia nuclear
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,713,Eletricidade e energia,0713R01,Refrigeração e climatização
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,713,Eletricidade e energia,0713S01,Sistemas elétricos
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,714,Eletrônica e automação,0714A01,Automação industrial
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,714,Eletrônica e automação,0714E01,Eletrônica industrial
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,714,Eletrônica e automação,0714E02,Engenharia acústica
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,714,Eletrônica e automação,0714E03,Engenharia biomédica
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,714,Eletrônica e automação,0714E04,Engenharia de computação (DCN Engenharia)
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,714,Eletrônica e automação,0714E05,Engenharia de controle e automação
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,714,Eletrônica e automação,0714E06,Engenharia de informação
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,714,Eletrônica e automação,0714E07,Engenharia de telecomunicações
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,714,Eletrônica e automação,0714E08,Engenharia eletrônica
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,714,Eletrônica e automação,0714E09,Engenharia mecatrônica
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,714,Eletrônica e automação,0714G01,Gestão de telecomunicações
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,714,Eletrônica e automação,0714M01,Mecatrônica industrial
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,714,Eletrônica e automação,0714R01,Redes de telecomunicações
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,714,Eletrônica e automação,0714S01,Sistemas biomédicos
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,714,Eletrônica e automação,0714S02,Sistemas de telecomunicações
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,714,Eletrônica e automação,0714T01,Telemática
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,715,Engenharia mecânica e metalurgia,0715E01,Engenharia física
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,715,Engenharia mecânica e metalurgia,0715E02,Engenharia mecânica
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,715,Engenharia mecânica e metalurgia,0715E03,Engenharia metalúrgica
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,715,Engenharia mecânica e metalurgia,0715F01,Fabricação mecânica
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,715,Engenharia mecânica e metalurgia,0715M01,Manutenção industrial
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,715,Engenharia mecânica e metalurgia,0715M02,Mecânica de precisão
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,715,Engenharia mecânica e metalurgia,0715P01,Processos metalúrgicos
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,715,Engenharia mecânica e metalurgia,0715S01,Soldagem
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,716,"Veículos a motor, construção naval, aeronáutica, ferroviária e metroviária",0716A01,Aeroespacial
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,716,"Veículos a motor, construção naval, aeronáutica, ferroviária e metroviária",0716C01,Construção naval
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,716,"Veículos a motor, construção naval, aeronáutica, ferroviária e metroviária",0716E01,Engenharia aeroespacial
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,716,"Veículos a motor, construção naval, aeronáutica, ferroviária e metroviária",0716E02,Engenharia aeronáutica
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,716,"Veículos a motor, construção naval, aeronáutica, ferroviária e metroviária",0716E03,Engenharia automotiva
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,716,"Veículos a motor, construção naval, aeronáutica, ferroviária e metroviária",0716E04,Engenharia ferroviária e metroviária
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,716,"Veículos a motor, construção naval, aeronáutica, ferroviária e metroviária",0716E05,Engenharia naval
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,716,"Veículos a motor, construção naval, aeronáutica, ferroviária e metroviária",0716M01,Manutenção de aeronaves
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,716,"Veículos a motor, construção naval, aeronáutica, ferroviária e metroviária",0716S01,Sistemas automotivos
+7,"Engenharia, produção e construção",71,Engenharia e profissões correlatas,716,"Veículos a motor, construção naval, aeronáutica, ferroviária e metroviária",0716S02,Sistemas de navegação fluvial
+7,"Engenharia, produção e construção",72,Produção e processamento,721,Processamento de alimentos,0721A01,Alimentos
+7,"Engenharia, produção e construção",72,Produção e processamento,721,Processamento de alimentos,0721E01,Engenharia de alimentos
+7,"Engenharia, produção e construção",72,Produção e processamento,721,Processamento de alimentos,0721L01,Laticínios
+7,"Engenharia, produção e construção",72,Produção e processamento,721,Processamento de alimentos,0721P01,Processamento de carnes
+7,"Engenharia, produção e construção",72,Produção e processamento,721,Processamento de alimentos,0721P02,Produção de cachaça
+7,"Engenharia, produção e construção",72,Produção e processamento,721,Processamento de alimentos,0721P03,Produção sucroalcooleira
+7,"Engenharia, produção e construção",72,Produção e processamento,721,Processamento de alimentos,0721P04,Produção de cerveja
+7,"Engenharia, produção e construção",72,Produção e processamento,722,Materiais,0722C01,Cerâmica
+7,"Engenharia, produção e construção",72,Produção e processamento,722,Materiais,0722C02,Ciências dos materiais
+7,"Engenharia, produção e construção",72,Produção e processamento,722,Materiais,0722E01,Engenharia de materiais
+7,"Engenharia, produção e construção",72,Produção e processamento,722,Materiais,0722P01,Papel e celulose
+7,"Engenharia, produção e construção",72,Produção e processamento,722,Materiais,0722P02,Polímeros
+7,"Engenharia, produção e construção",72,Produção e processamento,722,Materiais,0722P03,Produção joalheira
+7,"Engenharia, produção e construção",72,Produção e processamento,722,Materiais,0722P04,Produção moveleira
+7,"Engenharia, produção e construção",72,Produção e processamento,723,"Têxteis (vestuário, calçados e couro)",0723E01,Engenharia têxtil
+7,"Engenharia, produção e construção",72,Produção e processamento,723,"Têxteis (vestuário, calçados e couro)",0723P01,Produção de vestuário
+7,"Engenharia, produção e construção",72,Produção e processamento,723,"Têxteis (vestuário, calçados e couro)",0723P02,Produção têxtil
+7,"Engenharia, produção e construção",72,Produção e processamento,724,Mineração e extração,0724E01,Engenharia de minas
+7,"Engenharia, produção e construção",72,Produção e processamento,724,Mineração e extração,0724E02,Engenharia de petróleo
+7,"Engenharia, produção e construção",72,Produção e processamento,724,Mineração e extração,0724E03,Engenharia geológica
+7,"Engenharia, produção e construção",72,Produção e processamento,724,Mineração e extração,0724M01,Mineração
+7,"Engenharia, produção e construção",72,Produção e processamento,724,Mineração e extração,0724P01,Petróleo e gás
+7,"Engenharia, produção e construção",72,Produção e processamento,724,Mineração e extração,0724R01,Rochas ornamentais
+7,"Engenharia, produção e construção",72,Produção e processamento,725,Produção e processos de fabricação,0725E01,Engenharia de manufatura
+7,"Engenharia, produção e construção",72,Produção e processamento,725,Produção e processos de fabricação,0725E02,Engenharia de produção
+7,"Engenharia, produção e construção",72,Produção e processamento,725,Produção e processos de fabricação,0725E03,Engenharia industrial
+7,"Engenharia, produção e construção",72,Produção e processamento,725,Produção e processos de fabricação,0725P01,Produção gráfica
+7,"Engenharia, produção e construção",72,Produção e processamento,725,Produção e processos de fabricação,0725P02,Produção industrial
+7,"Engenharia, produção e construção",73,Arquitetura e construção,731,Arquitetura e planejamento urbano,0731A01,Agrimensura
+7,"Engenharia, produção e construção",73,Arquitetura e construção,731,Arquitetura e planejamento urbano,0731A02,Arquitetura e urbanismo
+7,"Engenharia, produção e construção",73,Arquitetura e construção,731,Arquitetura e planejamento urbano,0731E01,Engenharia cartográfica
+7,"Engenharia, produção e construção",73,Arquitetura e construção,731,Arquitetura e planejamento urbano,0731E02,Engenharia de agrimensura
+7,"Engenharia, produção e construção",73,Arquitetura e construção,731,Arquitetura e planejamento urbano,0731E03,Engenharia de agrimensura e cartográfica
+7,"Engenharia, produção e construção",73,Arquitetura e construção,732,Engenharia civil e construção,0732C01,Construção de edifícios
+7,"Engenharia, produção e construção",73,Arquitetura e construção,732,Engenharia civil e construção,0732C02,Controle de obras
+7,"Engenharia, produção e construção",73,Arquitetura e construção,732,Engenharia civil e construção,0732E01,Engenharia civil
+7,"Engenharia, produção e construção",73,Arquitetura e construção,732,Engenharia civil e construção,0732E02,Engenharia de recursos hídricos
+7,"Engenharia, produção e construção",73,Arquitetura e construção,732,Engenharia civil e construção,0732E03,Engenharia de transportes
+7,"Engenharia, produção e construção",73,Arquitetura e construção,732,Engenharia civil e construção,0732E04,Engenharia portuária
+7,"Engenharia, produção e construção",73,Arquitetura e construção,732,Engenharia civil e construção,0732E05,Estradas
+7,"Engenharia, produção e construção",73,Arquitetura e construção,732,Engenharia civil e construção,0732G01,Gestão de recursos hídricos
+7,"Engenharia, produção e construção",73,Arquitetura e construção,732,Engenharia civil e construção,0732M01,Material de construção
+7,"Engenharia, produção e construção",78,"Programas interdisciplinares abrangendo engenharia, produção e construção",788,"Programas interdisciplinares abrangendo engenharia, produção e construção",0788P01,"Programas interdisciplinares abrangendo engenharia, produção e construção"
+8,"Agricultura, silvicultura, pesca e veterinária",81,Agricultura,811,"Produção agrícola, agropecuária e zootecnia",0811A01,Agroecologia
+8,"Agricultura, silvicultura, pesca e veterinária",81,Agricultura,811,"Produção agrícola, agropecuária e zootecnia",0811A02,Agroindústria
+8,"Agricultura, silvicultura, pesca e veterinária",81,Agricultura,811,"Produção agrícola, agropecuária e zootecnia",0811A03,Agronegócio
+8,"Agricultura, silvicultura, pesca e veterinária",81,Agricultura,811,"Produção agrícola, agropecuária e zootecnia",0811A04,Agronomia
+8,"Agricultura, silvicultura, pesca e veterinária",81,Agricultura,811,"Produção agrícola, agropecuária e zootecnia",0811A05,Agropecuária
+8,"Agricultura, silvicultura, pesca e veterinária",81,Agricultura,811,"Produção agrícola, agropecuária e zootecnia",0811C01,Cafeicultura
+8,"Agricultura, silvicultura, pesca e veterinária",81,Agricultura,811,"Produção agrícola, agropecuária e zootecnia",0811E01,Engenharia agrícola
+8,"Agricultura, silvicultura, pesca e veterinária",81,Agricultura,811,"Produção agrícola, agropecuária e zootecnia",0811E02,Engenharia de biossistemas
+8,"Agricultura, silvicultura, pesca e veterinária",81,Agricultura,811,"Produção agrícola, agropecuária e zootecnia",0811F01,Fruticultura
+8,"Agricultura, silvicultura, pesca e veterinária",81,Agricultura,811,"Produção agrícola, agropecuária e zootecnia",0811I01,Irrigação e drenagem
+8,"Agricultura, silvicultura, pesca e veterinária",81,Agricultura,811,"Produção agrícola, agropecuária e zootecnia",0811M01,Manejo da produção agrícola
+8,"Agricultura, silvicultura, pesca e veterinária",81,Agricultura,811,"Produção agrícola, agropecuária e zootecnia",0811V01,Viticultura e enologia
+8,"Agricultura, silvicultura, pesca e veterinária",81,Agricultura,811,"Produção agrícola, agropecuária e zootecnia",0811Z01,Zootecnia
+8,"Agricultura, silvicultura, pesca e veterinária",81,Agricultura,812,Horticultura,0812H01,Horticultura
+8,"Agricultura, silvicultura, pesca e veterinária",82,Silvicultura,821,Silvicultura,0821E01,Engenharia florestal
+8,"Agricultura, silvicultura, pesca e veterinária",82,Silvicultura,821,Silvicultura,0821S01,Silvicultura
+8,"Agricultura, silvicultura, pesca e veterinária",83,Pesca,831,Pesca,0831A01,Aquicultura
+8,"Agricultura, silvicultura, pesca e veterinária",83,Pesca,831,Pesca,0831E01,Engenharia de pesca
+8,"Agricultura, silvicultura, pesca e veterinária",83,Pesca,831,Pesca,0831P01,Produção pesqueira
+8,"Agricultura, silvicultura, pesca e veterinária",84,Veterinária,841,Veterinária,0841M01,Medicina veterinária
+8,"Agricultura, silvicultura, pesca e veterinária",88,"Programas interdisciplinares abrangendo agricultura, silvicultura, pesca e veterinária",888,"Programas interdisciplinares abrangendo agricultura, silvicultura, pesca e veterinária",0888P01,"Programas interdisciplinares abrangendo agricultura, silvicultura, pesca e veterinária"
+9,Saúde e bem-estar,91,Saúde,911,Odontologia,0911O01,Odontologia
+9,Saúde e bem-estar,91,Saúde,912,Medicina,0912M01,Medicina
+9,Saúde e bem-estar,91,Saúde,913,Enfermagem,0913E01,Enfermagem
+9,Saúde e bem-estar,91,Saúde,914,Tecnologia de diagnóstico e tratamento médico,0914A01,Análises clínicas e toxicológicas
+9,Saúde e bem-estar,91,Saúde,914,Tecnologia de diagnóstico e tratamento médico,0914B01,Biomedicina
+9,Saúde e bem-estar,91,Saúde,914,Tecnologia de diagnóstico e tratamento médico,0914O01,Oftálmica
+9,Saúde e bem-estar,91,Saúde,914,Tecnologia de diagnóstico e tratamento médico,0914O02,Optometria
+9,Saúde e bem-estar,91,Saúde,914,Tecnologia de diagnóstico e tratamento médico,0914P01,Prótese e órtese
+9,Saúde e bem-estar,91,Saúde,914,Tecnologia de diagnóstico e tratamento médico,0914R01,Radiologia
+9,Saúde e bem-estar,91,Saúde,915,"Promoção, prevenção, terapia e reabilitação",0915E01,Educação física
+9,Saúde e bem-estar,91,Saúde,915,"Promoção, prevenção, terapia e reabilitação",0915F01,Fisioterapia
+9,Saúde e bem-estar,91,Saúde,915,"Promoção, prevenção, terapia e reabilitação",0915F02,Fonoaudiologia
+9,Saúde e bem-estar,91,Saúde,915,"Promoção, prevenção, terapia e reabilitação",0915N01,Nutrição
+9,Saúde e bem-estar,91,Saúde,915,"Promoção, prevenção, terapia e reabilitação",0915P01,Podologia
+9,Saúde e bem-estar,91,Saúde,915,"Promoção, prevenção, terapia e reabilitação",0915T01,Terapia ocupacional
+9,Saúde e bem-estar,91,Saúde,916,Farmácia,0916F01,Farmácia
+9,Saúde e bem-estar,91,Saúde,917,Medicina e terapia tradicional e complementar,0917M01,Musicoterapia
+9,Saúde e bem-estar,91,Saúde,917,Medicina e terapia tradicional e complementar,0917P01,Práticas integrativas
+9,Saúde e bem-estar,91,Saúde,918,Saúde pública e saúde coletiva,0918S01,Saúde coletiva
+9,Saúde e bem-estar,91,Saúde,918,Saúde pública e saúde coletiva,0918S02,Saúde pública
+9,Saúde e bem-estar,92,Bem-estar,921,Assistência a idosos e a deficientes,0921A01,Assistência a idosos e a deficientes
+9,Saúde e bem-estar,92,Bem-estar,921,Assistência a idosos e a deficientes,0921G01,Gerontologia
+9,Saúde e bem-estar,92,Bem-estar,923,Serviço social,0923S01,Serviço social
+9,Saúde e bem-estar,98,Programas interdisciplinares abrangendo saúde e bem-estar,988,Programas interdisciplinares abrangendo saúde e bem-estar,0988P01,Programas interdisciplinares abrangendo saúde e bem-estar
+10,Serviços,101,Serviços pessoais,1011,Serviços domésticos,1011E01,Economia doméstica
+10,Serviços,101,Serviços pessoais,1012,Serviços de beleza,1012E01,Estética e cosmética
+10,Serviços,101,Serviços pessoais,1013,Serviços de alimentação,1013G01,Gastronomia
+10,Serviços,101,Serviços pessoais,1014,Esportes e lazer,1014F01,Formação de técnicos e treinadores esportivos
+10,Serviços,101,Serviços pessoais,1014,Esportes e lazer,1014G01,Gestão desportiva e de lazer
+10,Serviços,101,Serviços pessoais,1015,Turismo e hotelaria,1015E01,Eventos
+10,Serviços,101,Serviços pessoais,1015,Turismo e hotelaria,1015H01,Hotelaria
+10,Serviços,101,Serviços pessoais,1015,Turismo e hotelaria,1015T01,Turismo
+10,Serviços,102,Higiene e serviços de saúde ocupacional,1022,Saúde e segurança no trabalho,1022S01,Segurança no trabalho
+10,Serviços,103,Serviços de segurança,1031,Setor militar e de defesa,1031C01,Ciências militares
+10,Serviços,103,Serviços de segurança,1032,Proteção de pessoas e de propriedades,1032I01,Investigação e perícia
+10,Serviços,103,Serviços de segurança,1032,Proteção de pessoas e de propriedades,1032S01,Segurança no trânsito
+10,Serviços,103,Serviços de segurança,1032,Proteção de pessoas e de propriedades,1032S02,Segurança privada
+10,Serviços,103,Serviços de segurança,1032,Proteção de pessoas e de propriedades,1032S03,Segurança pública
+10,Serviços,103,Serviços de segurança,1032,Proteção de pessoas e de propriedades,1032S04,Serviços penais
+10,Serviços,104,Serviços de transporte,1041,Serviços de transporte,1041C01,Ciências aeronáuticas
+10,Serviços,104,Serviços de transporte,1041,Serviços de transporte,1041G01,Gestão portuária
+10,Serviços,104,Serviços de transporte,1041,Serviços de transporte,1041T01,Transporte aéreo
+10,Serviços,104,Serviços de transporte,1041,Serviços de transporte,1041T02,Transporte terrestre
+10,Serviços,108,Programas interdisciplinares abrangendo serviços,1088,Programas interdisciplinares abrangendo serviços,1088P01,Programas interdisciplinares abrangendo serviços
